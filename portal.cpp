@@ -33,7 +33,7 @@ void Register()
 		fout.open(username);
 		if (!fout) 
 		{
-			cout << "Error Creating File \n";
+			cout << "System Error :(\n";
 		}
 		else 
 		{
